@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    margin: 0px;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	background-image:url('bl.jpg');
+}
+table{
+    color:grey;
+}
+h4{
+    color: white;
+}
+tr{
+    color:white;
+}
+button{
+    text-align: center;
+    color : whitesmoke;
+}
+h5{
+    color :whitesmoke;
+}
